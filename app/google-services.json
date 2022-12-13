@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "10435809338",
+    "project_id": "kotlinchatapp-723bb",
+    "storage_bucket": "kotlinchatapp-723bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10435809338:android:5558e37c0c386532ee2503",
+        "android_client_info": {
+          "package_name": "com.stturan.cchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10435809338-andjlmffua9m1qb50sfc87drea6cma15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjQIPnSqFO1oqdL7i29rqF07wfBBxsN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10435809338-andjlmffua9m1qb50sfc87drea6cma15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10435809338:android:40e66225eb972462ee2503",
+        "android_client_info": {
+          "package_name": "com.stturan.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10435809338-andjlmffua9m1qb50sfc87drea6cma15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjQIPnSqFO1oqdL7i29rqF07wfBBxsN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10435809338-andjlmffua9m1qb50sfc87drea6cma15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
